@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSDN_Example01", "SortList\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSDN_Example02", "MSDN_Example02\MSDN_Example02.csproj", "{77540365-CBCB-4558-A9F7-26C9249F3910}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSDN_Example03", "MSDN_Example03\MSDN_Example03.csproj", "{8DA21C6D-7452-44A1-8D17-5A2DDB615172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{77540365-CBCB-4558-A9F7-26C9249F3910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77540365-CBCB-4558-A9F7-26C9249F3910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77540365-CBCB-4558-A9F7-26C9249F3910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA21C6D-7452-44A1-8D17-5A2DDB615172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA21C6D-7452-44A1-8D17-5A2DDB615172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA21C6D-7452-44A1-8D17-5A2DDB615172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA21C6D-7452-44A1-8D17-5A2DDB615172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
